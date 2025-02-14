@@ -60,7 +60,6 @@ What is the estimated amount of data that will be read when this query is execut
 - [ ] BigQuery automatically caches the first queried column, so adding a second column increases processing time but does not affect the estimated bytes scanned.  
 - [ ] When selecting multiple columns, BigQuery performs an implicit join operation between them, increasing the estimated bytes processed  
 
-(No dedicated screenshot provided for Question 3)
 
 ---
 
