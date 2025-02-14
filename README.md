@@ -35,7 +35,7 @@ Nothing is fool proof so make sure that all 6 files show in your GCS Bucket befo
 - [x] 20,332,093  
 - [ ] 85,431,289  
 
-[Answer screenshot](./h3_images/h3_1.png)
+![Answer screenshot](./h3_images/h3_1.png)
 
 ---
 
@@ -49,7 +49,7 @@ What is the estimated amount of data that will be read when this query is execut
 - [ ] 2.14 GB for the External Table and 0MB for the Materialized Table  
 - [ ] 0 MB for the External Table and 0MB for the Materialized Table  
 
-[Answer screenshot](./h3_images/h3_2.png)
+![Answer screenshot](./h3_images/h3_2.png)
 
 ---
 
@@ -75,7 +75,7 @@ What is the estimated amount of data that will be read when this query is execut
 - [ ] 20,188,016  
 - [x] 8,333  
 
-[Answer screenshot](./h3_images/h3_4.png)
+![Answer screenshot](./h3_images/h3_4.png)
 
 ---
 
@@ -88,7 +88,7 @@ What is the estimated amount of data that will be read when this query is execut
 - [ ] Cluster on tpep_dropoff_datetime Partition by VendorID  
 - [ ] Partition by tpep_dropoff_datetime and Partition by VendorID  
 
-[Answer screenshot](./h3_images/h3_5.png)
+![Answer screenshot](./h3_images/h3_5.png)
 
 ---
 
@@ -105,8 +105,8 @@ Choose the answer which most closely matches:
 - [ ] 5.87 MB for non-partitioned table and 0 MB for the partitioned table  
 - [ ] 310.31 MB for non-partitioned table and 285.64 MB for the partitioned table  
 
-[Answer screenshot (non-partitioned)](./h3_images/h3_6_non-partitioned.png)  
-[Answer screenshot (partitioned)](./h3_images/h3_6_partitioned.png)
+![Answer screenshot (non-partitioned)](./h3_images/h3_6_non-partitioned.png)  
+![Answer screenshot (partitioned)](./h3_images/h3_6_partitioned.png)
 
 ---
 
